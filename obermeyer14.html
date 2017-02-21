@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title><span>Scaling Nonparametric Bayesian Inference via Subsample-Annealing</span> | AISTATS 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="{Scaling Nonparametric Bayesian Inference via Subsample-Annealing}">
+
+  <meta name="citation_author" content="Obermeyer, Fritz">
+
+  <meta name="citation_author" content="Glidden, Jonathan">
+
+  <meta name="citation_author" content="Jonas, Eric">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics">
+<meta name="citation_firstpage" content="696">
+<meta name="citation_lastpage" content="705">
+<meta name="citation_pdf_url" content="obermeyer14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1><span>Scaling Nonparametric Bayesian Inference via Subsample-Annealing</span></h1>
+
+	<div id="authors">
+	
+		Fritz Obermeyer,
+	
+		Jonathan Glidden,
+	
+		Eric Jonas
+	</div>;
+	<div id="info">
+		JMLR W&amp;CP 33 
+		
+		: 
+		696–705, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		We describe an adaptation of the simulated annealing algorithm to nonparametric clustering and related probabilistic models. This new algorithm learns nonparametric latent structure over a growing and constantly churning subsample of training data, where the portion of data subsampled can be interpreted as the inverse temperature <span class="math">\(\beta(t)\)</span> in an annealing schedule. Gibbs sampling at high temperature (i.e., with a very small subsample) can more quickly explore sketches of the final latent state by (a) making longer jumps around latent space (as in block Gibbs) and (b) lowering energy barriers (as in simulated annealing). We prove subsample annealing speeds up mixing time <span class="math">\(N^2 \rightarrow N\)</span> in a simple clustering model and <span class="math">\(\exp(N) \rightarrow N\)</span> in another class of models, where <span class="math">\(N\)</span> is data size. Empirically subsample-annealing outperforms naive Gibbs sampling in accuracy-per-wallclock time, and can scale to larger datasets and deeper hierarchical models. We demonstrate improved inference on million-row subsamples of US Census data and network log data and a 307-row hospital rating dataset, using a Pitman-Yor generalization of the Cross Categorization model.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="obermeyer14.pdf">Download PDF</a></li>
+			
+			<li><a href="obermeyer14-supp.pdf">Supplementary (PDF)</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

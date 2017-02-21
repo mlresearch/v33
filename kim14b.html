@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title><span>Scalable Variational Bayesian Matrix Factorization with Side Information</span> | AISTATS 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="{Scalable Variational Bayesian Matrix Factorization with Side Information}">
+
+  <meta name="citation_author" content="Kim, Yong-Deok">
+
+  <meta name="citation_author" content="Choi, Seungjin">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics">
+<meta name="citation_firstpage" content="493">
+<meta name="citation_lastpage" content="502">
+<meta name="citation_pdf_url" content="kim14b.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1><span>Scalable Variational Bayesian Matrix Factorization with Side Information</span></h1>
+
+	<div id="authors">
+	
+		Yong-Deok Kim,
+	
+		Seungjin Choi
+	</div>;
+	<div id="info">
+		JMLR W&amp;CP 33 
+		
+		: 
+		493–502, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		Bayesian matrix factorization (BMF) is a popular method for collaborative prediction, because of its robustness to overfitting as well as of being free from cross-validation for fine tuning of regularization parameters. In practice, however, due to its cubic time complexity with respect to the rank of factor matrices, existing variational inference algorithms for BMF are not well suited to web-scale datasets where billions of ratings provided by millions of users are available. The time complexity even increases when the side information, such as user binary implicit feedback or item content information, is incorporated into variational Bayesian matrix factorization (VBMF). For instance, a state of the arts in VBMF with side information, is to place Gaussian priors on user and item factor matrices, where mean of each prior is regressed on the corresponding side information. Since this approach introduces additional cubic time complexity with respect to the size of feature vectors, the use of rich side information in a form of high-dimensional feature vector is prohibited. In this paper, we present a scalable inference for VBMF with side information, the complexity of which is linear in the rank K of factor matrices. Moreover, the algorithm can be easily parallelized on multi-core systems. Experiments on large-scale datasets demonstrate the useful behavior of our algorithm such as scalability, fast learning, and prediction accuracy.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="kim14b.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>
