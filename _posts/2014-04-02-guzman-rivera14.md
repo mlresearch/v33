@@ -13,6 +13,7 @@ abstract: This paper proposes a novel method for efficiently generating multiple
   not only predict more diverse results than competing methods, but are also able
   to generalize better and produce results with high test accuracy.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: guzman-rivera14
 month: 0
 firstpage: 284

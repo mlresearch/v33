@@ -17,6 +17,7 @@ abstract: Intelligent processing of complex signals such as images is often perf
   on the fly, and is competitive with state-of-the-art nonlinear optimizers even in
   the serial computation setting, often providing reasonable models within a few iterations.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: carreira-perpinan14
 month: 0
 firstpage: 10

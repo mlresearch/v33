@@ -14,6 +14,7 @@ abstract: Gaussian processes are a state-of-the-art method for learning    model
   can be valuable in Bayesian decision making,    optimal control, reinforcement learning,
   and robotics.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: hajighassemi14
 month: 0
 firstpage: 303

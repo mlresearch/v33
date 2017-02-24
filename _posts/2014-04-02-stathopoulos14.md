@@ -14,6 +14,7 @@ abstract: We study the problem of identifying bat species from echolocation call
   across families of species is low highlighting the common evolutionary path of echolocation
   in bats.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: stathopoulos14
 month: 0
 firstpage: 913

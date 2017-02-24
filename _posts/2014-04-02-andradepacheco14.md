@@ -8,6 +8,7 @@ abstract: Machine learning practitioners are often faced with a choice between a
   data, discriminative classification with missing inputs and manifold learning informed
   by class labels.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: andradepacheco14
 month: 0
 firstpage: 47

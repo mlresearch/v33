@@ -22,6 +22,7 @@ abstract: MinHash and SimHash are the two widely adopted Locality Sensitive Hash
   region.        We believe the results in this paper  will provide valuable guidelines
   for search in practice,  especially when the data are sparse.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shrivastava14
 month: 0
 firstpage: 886
