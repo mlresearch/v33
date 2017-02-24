@@ -1,0 +1,53 @@
+# Site settings
+# Auto generated from v33.bib
+---
+booktitle: Proceedings of the Seventeenth International Conference on Artificial Intelligence
+  and Statistics
+volume: 33
+year: '2014'
+start: 2014-04-22
+end: 2014-04-25
+published: 2014-04-02
+shortname: AISTATS
+sections:
+- name: preface
+  title: Preface
+- name: notable
+  title: Notable Papers
+- name: default
+  title: Regular Papers
+layout: proceedings
+id: AISTATS-2014
+month: 0
+abstract: ''
+editor:
+- given: Samuel
+  family: Kaski
+- given: Jukka
+  family: Corander
+title: Proceedings of the Seventeenth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Seventeenth International Conference on Artificial
+  Intelligence and Statistics, Reykjavik, Iceland
+url: http://proceedings.mlr.press
+baseurl: "/v33"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v33
+conference:
+  name: Artificial Intelligence and Statistics
+  url: http://www.aistats.org/aistats2014/
+  location: Reykjavik, Iceland
+  dates:
+  - 2014-04-22
+  - 2014-04-23
+  - 2014-04-24
+  - 2014-04-25
+analytics:
+  google:
+    tracking_id: UA-92432422-1
