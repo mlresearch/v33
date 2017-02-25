@@ -24,11 +24,20 @@ editor:
   family: Kaski
 - given: Jukka
   family: Corander
-title: Proceedings of the Seventeenth International Conference on Artificial Intelligence
-  and Statistics
-email: ''
-description: Proceedings of the Seventeenth International Conference on Artificial
-  Intelligence and Statistics, Reykjavik, Iceland
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics
+    Held in Reykjavik, Iceland on 22-25 April 2014
+
+  Published as Volume 33 by the Proceedings of Machine Learning Research on 02 April 2014.
+
+  Volume Edited by:
+    Samuel Kaski
+    Jukka Corander
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v33"
 twitter_username: mlresearch
@@ -38,6 +47,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v33
+email: ''
 conference:
   name: Artificial Intelligence and Statistics
   url: http://www.aistats.org/aistats2014/
