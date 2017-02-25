@@ -39,6 +39,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 22--25 Apr
 url: http://proceedings.mlr.press
 baseurl: "/v33"
 twitter_username: mlresearch
@@ -48,6 +49,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v33
+bibtex_copy: true
 email: ''
 conference:
   name: Artificial Intelligence and Statistics
