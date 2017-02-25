@@ -19,12 +19,13 @@ series: Proceedings of Machine Learning Research
 id: AISTATS-2014
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Samuel
   family: Kaski
 - given: Jukka
   family: Corander
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics
     Held in Reykjavik, Iceland on 22-25 April 2014

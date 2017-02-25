@@ -1,6 +1,6 @@
 ---
-title: "{Bat Call Identification with Gaussian Process Multinomial Probit Regression
-  and a Dynamic Time Warping Kernel}"
+title: Bat Call Identification with Gaussian Process Multinomial Probit Regression
+  and a Dynamic Time Warping Kernel
 abstract: We study the problem of identifying bat species from echolocation calls
   in order to build automated bioacoustic monitoring algorithms. We employ the Dynamic
   Time Warping algorithm which has been successfully applied for bird flight calls
@@ -17,6 +17,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: stathopoulos14
 month: 0
+tex_title: "{Bat Call Identification with Gaussian Process Multinomial Probit Regression
+  and a Dynamic Time Warping Kernel}"
 firstpage: 913
 lastpage: 921
 page: 913-921

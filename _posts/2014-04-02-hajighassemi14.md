@@ -1,5 +1,5 @@
 ---
-title: "{Analytic Long-Term Forecasting with Periodic Gaussian Processes}"
+title: Analytic Long-Term Forecasting with Periodic Gaussian Processes
 abstract: Gaussian processes are a state-of-the-art method for learning    models
   from data. Data with an underlying periodic structure appears    in many areas,
   e.g., in climatology or robotics.  It is often    important to predict the long-term
@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hajighassemi14
 month: 0
+tex_title: "{Analytic Long-Term Forecasting with Periodic Gaussian Processes}"
 firstpage: 303
 lastpage: 311
 page: 303-311

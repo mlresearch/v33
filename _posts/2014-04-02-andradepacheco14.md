@@ -1,6 +1,6 @@
 ---
 supplementary: Supplementary:andradepacheco14-supp.pdf
-title: "{Hybrid Discriminative-Generative Approach with Gaussian Processes}"
+title: Hybrid Discriminative-Generative Approach with Gaussian Processes
 abstract: Machine learning practitioners are often faced with a choice between a discriminative
   and a generative approach to modelling. Here, we present a model based on a hybrid
   approach that breaks down some of the barriers between the discriminative and generative
@@ -11,6 +11,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: andradepacheco14
 month: 0
+tex_title: "{Hybrid Discriminative-Generative Approach with Gaussian Processes}"
 firstpage: 47
 lastpage: 56
 page: 47-56

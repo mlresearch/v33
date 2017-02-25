@@ -1,5 +1,5 @@
 ---
-title: "{In Defense of Minhash over Simhash}"
+title: In Defense of Minhash over Simhash
 abstract: MinHash and SimHash are the two widely adopted Locality Sensitive Hashing
   (LSH) algorithms for large-scale data processing applications. Deciding which LSH
   to use for a particular problem at hand is an important question, which has no clear
@@ -25,6 +25,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shrivastava14
 month: 0
+tex_title: "{In Defense of Minhash over Simhash}"
 firstpage: 886
 lastpage: 894
 page: 886-894

@@ -1,5 +1,5 @@
 ---
-title: "{Efficiently Enforcing Diversity in Multi-Output Structured Prediction}"
+title: Efficiently Enforcing Diversity in Multi-Output Structured Prediction
 abstract: This paper proposes a novel method for efficiently generating multiple diverse
   predictions for structured prediction problems. Existing methods like SDPPs or DivMBest
   work by making a series of predictions where each prediction is made after considering
@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: guzman-rivera14
 month: 0
+tex_title: "{Efficiently Enforcing Diversity in Multi-Output Structured Prediction}"
 firstpage: 284
 lastpage: 292
 page: 284-292

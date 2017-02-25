@@ -1,7 +1,7 @@
 ---
 supplementary: Supplementary:carreira-perpinan14-supp.pdf
 section: notable
-title: "{Distributed optimization of deeply nested systems}"
+title: Distributed optimization of deeply nested systems
 abstract: Intelligent processing of complex signals such as images is often performed
   by a hierarchy of nonlinear processing layers, such as a deep net or an object recognition
   cascade. Joint estimation of the parameters of all the layers is a difficult nonconvex
@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: carreira-perpinan14
 month: 0
+tex_title: "{Distributed optimization of deeply nested systems}"
 firstpage: 10
 lastpage: 19
 page: 10-19
