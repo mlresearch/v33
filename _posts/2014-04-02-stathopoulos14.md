@@ -22,7 +22,8 @@ tex_title: "{Bat Call Identification with Gaussian Process Multinomial Probit Re
 firstpage: 913
 lastpage: 921
 page: 913-921
-sections: 
+order: 913
+cycles: false
 author:
 - given: Vassilios
   family: Stathopoulos

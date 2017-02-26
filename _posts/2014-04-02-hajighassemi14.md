@@ -21,7 +21,8 @@ tex_title: "{Analytic Long-Term Forecasting with Periodic Gaussian Processes}"
 firstpage: 303
 lastpage: 311
 page: 303-311
-sections: 
+order: 303
+cycles: false
 author:
 - given: Nooshin
   family: HajiGhassemi

@@ -20,7 +20,8 @@ tex_title: "{Efficiently Enforcing Diversity in Multi-Output Structured Predicti
 firstpage: 284
 lastpage: 292
 page: 284-292
-sections: 
+order: 284
+cycles: false
 author:
 - given: Abner
   family: Guzman-Rivera

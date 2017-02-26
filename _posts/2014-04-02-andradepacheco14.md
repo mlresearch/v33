@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:andradepacheco14-supp.pdf
+supplementary: http://proceedings.mlr.press/v33/andradepacheco14-supp.pdf
 title: Hybrid Discriminative-Generative Approach with Gaussian Processes
 abstract: Machine learning practitioners are often faced with a choice between a discriminative
   and a generative approach to modelling. Here, we present a model based on a hybrid
@@ -15,7 +15,8 @@ tex_title: "{Hybrid Discriminative-Generative Approach with Gaussian Processes}"
 firstpage: 47
 lastpage: 56
 page: 47-56
-sections: 
+order: 47
+cycles: false
 author:
 - given: Ricardo
   family: Andrade Pacheco

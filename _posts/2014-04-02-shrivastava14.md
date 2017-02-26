@@ -29,7 +29,8 @@ tex_title: "{In Defense of Minhash over Simhash}"
 firstpage: 886
 lastpage: 894
 page: 886-894
-sections: 
+order: 886
+cycles: false
 author:
 - given: Anshumali
   family: Shrivastava

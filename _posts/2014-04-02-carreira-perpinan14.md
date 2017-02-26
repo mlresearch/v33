@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:carreira-perpinan14-supp.pdf
+supplementary: http://proceedings.mlr.press/v33/carreira-perpinan14-supp.pdf
 section: notable
 title: Distributed optimization of deeply nested systems
 abstract: Intelligent processing of complex signals such as images is often performed
@@ -24,7 +24,8 @@ tex_title: "{Distributed optimization of deeply nested systems}"
 firstpage: 10
 lastpage: 19
 page: 10-19
-sections: 
+order: 10
+cycles: false
 author:
 - given: Miguel
   family: Carreira-Perpinan
