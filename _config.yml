@@ -18,15 +18,13 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: AISTATS-2014
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Samuel
   family: Kaski
 - given: Jukka
   family: Corander
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics
     Held in Reykjavik, Iceland on 22-25 April 2014
@@ -43,7 +41,7 @@ description: |
 date_str: 22--25 Apr
 url: http://proceedings.mlr.press
 baseurl: "/v33"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -55,6 +53,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -71,3 +70,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v33.bib
+---
