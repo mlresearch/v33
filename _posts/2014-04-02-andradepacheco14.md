@@ -11,7 +11,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: andradepacheco14
 month: 0
-tex_title: "{Hybrid Discriminative-Generative Approach with Gaussian Processes}"
+tex_title: "Hybrid Discriminative-Generative Approach with {G}aussian Processes"
 firstpage: 47
 lastpage: 56
 page: 47-56
