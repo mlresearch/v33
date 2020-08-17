@@ -15,6 +15,7 @@ sections:
 - name: default
   title: Regular Papers
 layout: proceedings
+publisher: PMLR
 series: Proceedings of Machine Learning Research
 issn: 1938-7228
 id: AISTATS-2014
